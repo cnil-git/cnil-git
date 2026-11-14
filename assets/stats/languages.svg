@@ -9,20 +9,20 @@
 <text x="54.0" y="44.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#8CE99C" text-anchor="start">Languages</text>
 <text x="407.0" y="44.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="end">by commits</text>
 <clipPath id="bar"><rect x="30" y="76" width="375" height="12" rx="6"/></clipPath><g clip-path="url(#bar)">
-<rect x="30.00" y="76" width="161.24" height="12" fill="#8CE99C"/>
-<rect x="190.74" y="76" width="64.35" height="12" fill="#3FAE4F"/>
-<rect x="254.58" y="76" width="42.97" height="12" fill="#C97B3D"/>
-<rect x="297.05" y="76" width="36.18" height="12" fill="#E3C770"/>
-<rect x="332.73" y="76" width="34.61" height="12" fill="#589562"/>
-<rect x="366.84" y="76" width="20.15" height="12" fill="#B9A58A"/>
-<rect x="386.49" y="76" width="19.01" height="12" fill="#6b5a45"/>
+<rect x="30.00" y="76" width="160.49" height="12" fill="#8CE99C"/>
+<rect x="189.99" y="76" width="64.05" height="12" fill="#3FAE4F"/>
+<rect x="253.53" y="76" width="42.77" height="12" fill="#C97B3D"/>
+<rect x="295.80" y="76" width="36.01" height="12" fill="#E3C770"/>
+<rect x="331.32" y="76" width="34.45" height="12" fill="#589562"/>
+<rect x="365.27" y="76" width="21.81" height="12" fill="#B9A58A"/>
+<rect x="386.58" y="76" width="18.92" height="12" fill="#6b5a45"/>
 </g>
 <g transform="translate(35.0 123.0) rotate(35) scale(6.00)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#8CE99C" opacity="1.00"/></g>
 <text x="48.0" y="128.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#d8c7b0" text-anchor="start">Java</text>
-<text x="220.0" y="128.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="end">42.9%</text>
+<text x="220.0" y="128.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="end">42.7%</text>
 <g transform="translate(240.0 123.0) rotate(35) scale(6.00)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#3FAE4F" opacity="1.00"/></g>
 <text x="253.0" y="128.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#d8c7b0" text-anchor="start">PLpgSQL</text>
-<text x="425.0" y="128.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="end">17.0%</text>
+<text x="425.0" y="128.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="end">16.9%</text>
 <g transform="translate(35.0 159.0) rotate(35) scale(6.00)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#C97B3D" opacity="1.00"/></g>
 <text x="48.0" y="164.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#d8c7b0" text-anchor="start">C#</text>
 <text x="220.0" y="164.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="end">11.3%</text>
@@ -34,7 +34,7 @@
 <text x="220.0" y="200.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="end">9.1%</text>
 <g transform="translate(240.0 195.0) rotate(35) scale(6.00)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#B9A58A" opacity="1.00"/></g>
 <text x="253.0" y="200.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#d8c7b0" text-anchor="start">Python</text>
-<text x="425.0" y="200.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="end">5.2%</text>
+<text x="425.0" y="200.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="end">5.7%</text>
 <g transform="translate(35.0 231.0) rotate(35) scale(6.00)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#6b5a45" opacity="1.00"/></g>
 <text x="48.0" y="236.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#d8c7b0" text-anchor="start">Other</text>
 <text x="220.0" y="236.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="end">4.9%</text>
