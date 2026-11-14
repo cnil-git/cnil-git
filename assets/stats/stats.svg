@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 435 300" width="435" height="300" role="img" aria-label="Contribution stats">
+<defs><clipPath id="c"><rect width="435" height="300" rx="18"/></clipPath>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a1c03"/><stop offset="1" stop-color="#241000"/></linearGradient></defs>
+<g clip-path="url(#c)">
+<rect width="435" height="300" fill="url(#bg)"/>
+<g transform="translate(387.0 270.0) rotate(-32) scale(62.00)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#318C3B" opacity="0.09"/></g>
+<g transform="translate(317.0 298.0) rotate(28) scale(34.00)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#318C3B" opacity="0.06"/></g>
+<g transform="translate(36.0 37.0) rotate(35) scale(9.00)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#8CE99C" opacity="1.00"/><path d="M0,-0.8V0.95" stroke="#241000" stroke-width="0.133" opacity="0.6"/></g>
+<text x="54.0" y="44.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#8CE99C" text-anchor="start">Growth this year</text>
+<text x="407.0" y="44.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="end">last 12 months</text>
+<g transform="translate(35.0 87.0) rotate(-40) scale(5.50)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#2f6b36" opacity="1.00"/></g>
+<text x="48.0" y="92.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="start">Contributions</text>
+<text x="220.0" y="92.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#d8c7b0" text-anchor="end">716</text>
+<g transform="translate(240.0 87.0) rotate(40) scale(5.50)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#2f6b36" opacity="1.00"/></g>
+<text x="253.0" y="92.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="start">Commits</text>
+<text x="425.0" y="92.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#d8c7b0" text-anchor="end">271</text>
+<g transform="translate(35.0 129.0) rotate(-40) scale(5.50)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#3f9a4b" opacity="1.00"/></g>
+<text x="48.0" y="134.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="start">Pull requests</text>
+<text x="220.0" y="134.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#d8c7b0" text-anchor="end">72</text>
+<g transform="translate(240.0 129.0) rotate(40) scale(5.50)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#3f9a4b" opacity="1.00"/></g>
+<text x="253.0" y="134.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="start">Code reviews</text>
+<text x="425.0" y="134.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#d8c7b0" text-anchor="end">21</text>
+<g transform="translate(35.0 171.0) rotate(-40) scale(5.50)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#62c574" opacity="1.00"/></g>
+<text x="48.0" y="176.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="start">Issues</text>
+<text x="220.0" y="176.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#d8c7b0" text-anchor="end">41</text>
+<g transform="translate(240.0 171.0) rotate(40) scale(5.50)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#62c574" opacity="1.00"/></g>
+<text x="253.0" y="176.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="start">Repos committed to</text>
+<text x="425.0" y="176.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#d8c7b0" text-anchor="end">11</text>
+<g transform="translate(35.0 213.0) rotate(-40) scale(5.50)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#8CE99C" opacity="1.00"/></g>
+<text x="48.0" y="218.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="start">Current streak</text>
+<text x="220.0" y="218.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#d8c7b0" text-anchor="end">5 days</text>
+<g transform="translate(240.0 213.0) rotate(40) scale(5.50)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#8CE99C" opacity="1.00"/></g>
+<text x="253.0" y="218.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="start">Longest streak</text>
+<text x="425.0" y="218.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#d8c7b0" text-anchor="end">15 days</text>
+<rect x="30" y="252" width="375" height="1" fill="#3d220b"/>
+<text x="30.0" y="274.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#a8957d" text-anchor="start">Active on 85 days in the last year</text>
+</g>
+</svg>

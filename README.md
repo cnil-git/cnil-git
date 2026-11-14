@@ -1,16 +1,75 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="Cyrus Nil - embedded engineer, full stack developer, and biophile" width="100%">
+</p>
 
-<!--
-**cnil-git/cnil-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Cyrus
 
-Here are some ideas to get you started:
+I'm an embedded engineer, full stack developer, and biophile. I like things
+that grow, whether that is a codebase, a piece of firmware, or a monstera on
+the windowsill. The leaf you see across my projects is my mark.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+
+- Main developer of **Treasury Tracker**, the finance and purchasing tracker
+  for [Longhorn Baja Racing](https://github.com/longhorn-baja-racing)
+- Writing firmware and tooling for the Longhorn Baja Racing car
+
+### Tools I reach for
+
+<p>
+  <img src="https://img.shields.io/badge/C-2E1500?style=flat-square&logo=c&logoColor=8CE99C" alt="C">
+  <img src="https://img.shields.io/badge/C++-2E1500?style=flat-square&logo=cplusplus&logoColor=8CE99C" alt="C++">
+  <img src="https://img.shields.io/badge/Rust-2E1500?style=flat-square&logo=rust&logoColor=8CE99C" alt="Rust">
+  <img src="https://img.shields.io/badge/Python-2E1500?style=flat-square&logo=python&logoColor=8CE99C" alt="Python">
+  <img src="https://img.shields.io/badge/Java-2E1500?style=flat-square&logo=openjdk&logoColor=8CE99C" alt="Java">
+  <img src="https://img.shields.io/badge/TypeScript-2E1500?style=flat-square&logo=typescript&logoColor=8CE99C" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-2E1500?style=flat-square&logo=nextdotjs&logoColor=8CE99C" alt="Next.js">
+  <img src="https://img.shields.io/badge/Supabase-2E1500?style=flat-square&logo=supabase&logoColor=8CE99C" alt="Supabase">
+  <img src="https://img.shields.io/badge/PostgreSQL-2E1500?style=flat-square&logo=postgresql&logoColor=8CE99C" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Linux-2E1500?style=flat-square&logo=linux&logoColor=8CE99C" alt="Linux">
+</p>
+
+### Growth
+
+<p align="center">
+  <img src="assets/stats/stats.svg" alt="Contribution stats" width="49%">
+  <img src="assets/stats/languages.svg" alt="Top languages by commits" width="49%">
+</p>
+<p align="center">
+  <img src="assets/stats/garden.svg" alt="Contribution calendar" width="100%">
+</p>
+<p align="center">
+  <img src="assets/stats/activity.svg" alt="Contributions per day over the last month" width="100%">
+</p>
+
+<p align="center"><sub>Stats are refreshed daily and include private work as totals only.</sub></p>
+
+```text
+                          ############
+                      #####################
+                  ###########################
+               #############################
+              #############################
+              ###########################          ##
+       ###     ########################        #######
+      ######      ###################      ###########
+     #########       ###############   #############
+    ############        ###########  #############       :::
+   ################       ####################         ::::::
+    ##################      ###############         ::::::::::
+       ##########################:#######         ::::::::::::
+          #######################:#####        :::::::::::::::
+               #################::####     ::::::::::::::::::%
+  ####               ###########::#####::::::::::::::::::%%%%%
+   ##########           #######:::########::::::::%%%%%%%%%%%
+    ##############        #####:::#################%%%%%%%%%
+    ###########################:::############      %%%%%%%%
+      ::::::::::###############:::########         %%%%%%%
+       ::::::::::::############:::#####       %%%%%%%%%%%
+         ::::::::::::::#######::::########%%%%%%%%%%%%%
+            ::::::::::::::####::::######%%%%%%%%%%%%%
+               :::::::::::::##::::####%%%%%%%%%%%%
+                    :::::::::#::::###%%%%%%%%
+                              ::::###
+                               :::#
+```
