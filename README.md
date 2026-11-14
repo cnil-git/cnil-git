@@ -6,13 +6,12 @@
 
 I'm an embedded engineer, full stack developer, and biophile. I like things
 that grow, whether that is a codebase, a piece of firmware, or a monstera on
-the windowsill. The leaf you see across my projects is my mark.
+the windowsill.
 
 ### Currently
 
-- Main developer of **Treasury Tracker**, the finance and purchasing tracker
-  for [Longhorn Baja Racing](https://github.com/longhorn-baja-racing)
-- Writing firmware and tooling for the Longhorn Baja Racing car
+- Firmware captain of [Longhorn Baja Racing](https://github.com/longhorn-baja-racing)
+- Working on **Monstera Lang**, a custom embedded programming language
 
 ### Tools I reach for
 
