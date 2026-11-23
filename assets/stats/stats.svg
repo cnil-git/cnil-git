@@ -28,7 +28,7 @@
 <text x="425.0" y="176.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#d8c7b0" text-anchor="end">16</text>
 <g transform="translate(35.0 213.0) rotate(-40) scale(5.50)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#8CE99C" opacity="1.00"/></g>
 <text x="48.0" y="218.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="start">Current streak</text>
-<text x="220.0" y="218.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#d8c7b0" text-anchor="end">12 days</text>
+<text x="220.0" y="218.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#d8c7b0" text-anchor="end">0 days</text>
 <g transform="translate(240.0 213.0) rotate(40) scale(5.50)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#8CE99C" opacity="1.00"/></g>
 <text x="253.0" y="218.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="start">Longest streak</text>
 <text x="425.0" y="218.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#d8c7b0" text-anchor="end">15 days</text>
