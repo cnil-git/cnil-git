@@ -10,12 +10,12 @@
 <text x="407.0" y="44.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a8957d" text-anchor="end">by commits</text>
 <clipPath id="bar"><rect x="30" y="76" width="375" height="12" rx="6"/></clipPath><g clip-path="url(#bar)">
 <rect x="30.00" y="76" width="107.74" height="12" fill="#8CE99C"/>
-<rect x="137.24" y="76" width="73.27" height="12" fill="#3FAE4F"/>
-<rect x="210.01" y="76" width="61.74" height="12" fill="#C97B3D"/>
-<rect x="271.26" y="76" width="54.45" height="12" fill="#E3C770"/>
-<rect x="325.20" y="76" width="35.83" height="12" fill="#589562"/>
-<rect x="360.53" y="76" width="28.84" height="12" fill="#B9A58A"/>
-<rect x="388.88" y="76" width="16.62" height="12" fill="#6b5a45"/>
+<rect x="137.24" y="76" width="73.29" height="12" fill="#3FAE4F"/>
+<rect x="210.03" y="76" width="61.75" height="12" fill="#C97B3D"/>
+<rect x="271.29" y="76" width="54.36" height="12" fill="#E3C770"/>
+<rect x="325.15" y="76" width="35.83" height="12" fill="#589562"/>
+<rect x="360.48" y="76" width="28.84" height="12" fill="#B9A58A"/>
+<rect x="388.82" y="76" width="16.68" height="12" fill="#6b5a45"/>
 </g>
 <g transform="translate(35.0 123.0) rotate(35) scale(6.00)"><path d="M0,-1C0.62,-0.62 0.62,0.55 0,1C-0.62,0.55 -0.62,-0.62 0,-1Z" fill="#8CE99C" opacity="1.00"/></g>
 <text x="48.0" y="128.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#d8c7b0" text-anchor="start">Java</text>

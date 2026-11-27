@@ -391,6 +391,7 @@
 <use href="#l0" x="827.2" y="121.2"/>
 <use href="#l0" x="827.2" y="135.8"/>
 <use href="#l0" x="827.2" y="150.4"/>
+<use href="#s" x="827.2" y="165.0"/>
 <text x="52.0" y="110.6" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#a8957d" text-anchor="end">Mon</text>
 <text x="52.0" y="139.8" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#a8957d" text-anchor="end">Wed</text>
 <text x="52.0" y="169.0" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#a8957d" text-anchor="end">Fri</text>
